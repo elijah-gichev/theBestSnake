@@ -1,0 +1,10 @@
+body{
+    background-color: black; /*rgb(200, 200, 200); */
+    
+}
+
+canvas{
+    display: block;
+    margin: 0 auto;
+    border-style: dotted;
+}
