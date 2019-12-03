@@ -1,2 +1,2 @@
 # theBestSnake
-Еhe best snake you've ever seen
+You must run index.html
